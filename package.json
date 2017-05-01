@@ -1,0 +1,17 @@
+{
+  "name": "nodejsproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "imdb-api": "^2.2.2",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "William Gooch",
+  "license": "ISC"
+}
